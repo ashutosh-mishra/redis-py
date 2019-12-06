@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to redis-py's documentation!
+Welcome to Ash redis-py's documentation!
 ====================================
+
+This change shows:
+- webhooks integration working
 
 Indices and tables
 ------------------
