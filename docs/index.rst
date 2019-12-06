@@ -6,11 +6,11 @@
 Welcome to Ash redis-py's documentation!
 ====================================
 
-This change shows:
-
+This is a new change, which shows:
 - webhooks integration working
 - test-1
 - test-2
+
 
 Indices and tables
 ------------------
