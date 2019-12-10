@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ash redis-py's documentation!
+Welcome to Actifio based redis-py's documentation!
 ====================================
 
 This is a new change, which shows:
